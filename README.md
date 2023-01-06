@@ -6,7 +6,9 @@
 
 - 👾  I’m currently working with **React.js and JavaScript.**
 
-- 💬  Ask me about **JavaScript, CSS and React.js.**
+- 👀 I’m interested in web development and mobile development.**
+
+- 🌱 Constantly learning.**
 
 - 📫  How to reach me **hakanpesener@gmail.com**
 
