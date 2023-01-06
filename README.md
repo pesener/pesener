@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hakan-p-2713b576/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/15683341/hakanp123 target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="45" width="45" /></a>
+<a href="https://www.linkedin.com/in/hakan-p-2713b576/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" target=”_blank”  /></a>
+<a href="https://stackoverflow.com/users/15683341/hakanp123 target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="45" width="45" target=”_blank”  /></a>
 </p>
 
 <h3 align="left">Technologies:</h3>
