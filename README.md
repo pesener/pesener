@@ -6,9 +6,9 @@
 
 - 👾  I’m currently working with **React.js and JavaScript.**
 
-- 👀 I’m interested in web development and mobile development.**
+- 👀 I’m interested in **Web development.**
 
-- 🌱 Constantly learning.**
+- 🌱 Constantly learning.
 
 - 📫  How to reach me **hakanpesener@gmail.com**
 
