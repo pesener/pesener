@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hakan-p-2713b576/ " target="_blank" rel=”noopener”><img align="center" src="https://icons8.com/icon/114445/linkedin-circled" title="linkedin icons" height="30" width="30" target=”_blank”  /></a>
+<a href="https://www.linkedin.com/in/hakan-p-2713b576/ " target="_blank" rel=”noopener”><img align="center" src="https://img.icons8.com/fluency/48/null/linkedin-2.png" title="linkedin icons" height="30" width="30" target=”_blank”  /></a>
 <a href="https://stackoverflow.com/users/15683341/hakanp123 target="_blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="45" width="45" target=”_blank”  /></a>
 </p>
 
