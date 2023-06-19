@@ -4,7 +4,7 @@
 
 <br>
 
-- 👾  I’m currently working with **React.js and JavaScript.**
+- 👾  I’m currently working with **MERN Stack ,TypeScript and Tailwind Css.**
 
 - 👀 I’m interested in **Web development.**
 
