@@ -6,7 +6,7 @@
 
 - 👾  I’m currently working with **MERN Stack ,TypeScript and Tailwind Css.**
 
-- 👀 I’m interested in **Web development.**
+- 👀 I’m interested in **Web and Mobile development.**
 
 - 🌱 Constantly learning.
 
